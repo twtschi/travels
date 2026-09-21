@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "theme": {"id": "sights", "label": "景點", "title": "景點與街區", "intro": "以區域組織景點，減少在澳門半島、氹仔與路氹之間反覆移動。"},
+  "updatedAt": "2026-09-21",
+  "items": [
+    {
+      "id": "historic-centre-walk",
+      "title": "澳門歷史城區單向步行",
+      "area": "澳門半島",
+      "location": {"lat": 22.1934, "lng": 113.5397, "label": "議事亭前地"},
+      "summary": "從媽閣廟、鄭家大屋與崗頂前地走向議事亭、大三巴及大炮台。",
+      "highlights": ["保留 4–6 小時", "街巷有坡度", "雨天縮短為議事亭、大三巴與大炮台"],
+      "meta": [{"label": "方式", "value": "步行"}, {"label": "建議停留", "value": "半天"}],
+      "tags": ["世界遺產", "歷史建築", "步行"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "澳門旅遊官方網站", "url": "https://www.macaotourism.gov.mo/", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "澳門半島 Citywalk 半日遊攻略", "url": "https://www.bilibili.com/video/BV12M411S7zB", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "taipa-village",
+      "title": "氹仔舊城與龍環葡韻",
+      "area": "氹仔",
+      "location": {"lat": 22.1559, "lng": 113.5604, "label": "龍環葡韻"},
+      "summary": "葡式建築、湖畔、教堂、官也街與小吃集中，適合抵達日的彈性散步。",
+      "highlights": ["主要區域可步行", "午後濕熱時縮短停留", "與官也街餐飲順路"],
+      "meta": [{"label": "建議停留", "value": "2–3 小時"}, {"label": "適合", "value": "抵達日下午"}],
+      "tags": ["建築", "街區", "氹仔"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Taipa 4K：中葡街區步行", "url": "https://www.youtube.com/watch?v=648Yq7e6xP8", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "cotai-architecture",
+      "title": "路氹建築與夜景",
+      "area": "路氹",
+      "location": {"lat": 22.1468, "lng": 113.5671, "label": "威尼斯人"},
+      "summary": "威尼斯人、巴黎人與倫敦人可用室內或遮蔽步道串接，夜間再看外牆與鐵塔燈光。",
+      "highlights": ["同區以步行為主", "適合避雨與午後高溫", "表演時間以官方公告為準"],
+      "meta": [{"label": "建議停留", "value": "半天至一天"}, {"label": "費用", "value": "公共區域多可免費參觀"}],
+      "tags": ["建築", "夜景", "室內"],
+      "sources": [
+        {"sourceType": "official", "platform": "The Londoner Macao", "title": "倫敦人景點與活動", "url": "https://www.londonermacao.com/macau-attractions", "capturedAt": "2026-09-15"},
+        {"sourceType": "official", "platform": "The Parisian Macao", "title": "巴黎人設施資訊", "url": "https://www.parisianmacao.com/amenities.html", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "coloane",
+      "title": "路環老街短停",
+      "area": "路環",
+      "location": {"lat": 22.1168, "lng": 113.5607, "label": "路環市區"},
+      "summary": "密度低於半島與路氹，適合老街、海邊和葡撻原店組成的慢節奏短停。",
+      "highlights": ["交通時間要單獨計算", "適合與原店購買合併", "離境日必須保留機場緩衝"],
+      "meta": [{"label": "建議停留", "value": "1–3 小時"}, {"label": "交通", "value": "的士或公車"}],
+      "tags": ["老街", "海邊", "路環"],
+      "sources": [
+        {"sourceType": "social", "platform": "Bilibili", "title": "龍爪角海岸徑、黑沙灘與路環一日遊", "url": "https://www.bilibili.com/video/BV11k4y1i7KR", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "guia-fortress",
+      "title": "東望洋炮台、聖母雪地殿與燈塔",
+      "area": "澳門半島",
+      "location": {"lat": 22.1967, "lng": 113.5497, "label": "東望洋炮台"},
+      "summary": "山頂可俯瞰半島，也是世界遺產路線較容易被忽略的一站；燈塔本體不開放入內。",
+      "highlights": ["上坡路段另留體力", "禮拜堂開放以現場公告為準", "可與望德堂區同日"],
+      "meta": [{"label": "建議停留", "value": "1–1.5 小時"}, {"label": "類型", "value": "世界遺產／展望"}],
+      "tags": ["世界遺產", "燈塔", "展望"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "Guia Fortress, Chapel and Lighthouse", "url": "https://www.macaotourism.gov.mo/en/sightseeing/fortresses/guia-fortress-including-guia-chapel-and-lighthouse", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "A Slow Walk Up to Guia Fortress", "url": "https://www.youtube.com/watch?v=JOmZY2ciV0g", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "mandarins-house",
+      "title": "鄭家大屋",
+      "area": "媽閣／亞婆井",
+      "location": {"lat": 22.1903, "lng": 113.5357, "label": "鄭家大屋"},
+      "summary": "1869 年前建成的嶺南式大型民居，適合放在媽閣往議事亭的單向世界遺產路線。",
+      "highlights": ["住宅尺度與教堂廣場形成對照", "與亞婆井前地順路", "開放安排以官方頁為準"],
+      "meta": [{"label": "建議停留", "value": "30–60 分鐘"}, {"label": "類型", "value": "歷史住宅"}],
+      "tags": ["世界遺產", "嶺南建築", "歷史住宅"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "World Heritage Tour in Central District", "url": "https://www.macaotourism.gov.mo/en/step-out-macao/central", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "The Mandarin’s House Macau Day Tour", "url": "https://www.youtube.com/watch?v=EEk42-81mes", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "mount-fortress",
+      "title": "大炮台",
+      "area": "大三巴周邊",
+      "location": {"lat": 22.1965, "lng": 113.5426, "label": "大炮台"},
+      "summary": "由大三巴旁上行即可抵達，城防遺構與半島視野比單拍牌坊更能補足歷史城區脈絡。",
+      "highlights": ["有坡道與階梯", "午後炎熱時縮短", "與大三巴合併安排"],
+      "meta": [{"label": "建議停留", "value": "30–60 分鐘"}, {"label": "類型", "value": "城防遺構／展望"}],
+      "tags": ["世界遺產", "炮台", "展望"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "World Heritage Tour in Central District", "url": "https://www.macaotourism.gov.mo/en/step-out-macao/central", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Macau Top 30 Things to Do & 3-Day Itinerary", "url": "https://www.youtube.com/watch?v=g0I4J-v0dhI", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "lou-lim-ioc-park",
+      "title": "盧廉若公園",
+      "area": "荷蘭園",
+      "location": {"lat": 22.2009, "lng": 113.5503, "label": "盧廉若公園"},
+      "summary": "蘇州園林式池景、九曲橋與中西合璧亭台，適合放進半島北段的低強度空檔。",
+      "highlights": ["城市綠地", "可觀察居民日常活動", "活動與開放時間以官方公告為準"],
+      "meta": [{"label": "建議停留", "value": "45–90 分鐘"}, {"label": "類型", "value": "公園／園林"}],
+      "tags": ["園林", "在地生活", "免費"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "Lou Lim Ioc Park", "url": "https://www.macaotourism.gov.mo/en/sightseeing/gardens/lou-lim-ioc-park", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "10 Free Things to Do in Macau", "url": "https://www.youtube.com/watch?v=PnuunIk62ew", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Lou Lim Ioc Garden Walk", "url": "https://www.youtube.com/watch?v=rP34mFJ6-1I", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "hac-sa-long-chao-kok",
+      "title": "黑沙灘與龍爪角海岸徑",
+      "area": "路環",
+      "location": {"lat": 22.118, "lng": 113.5724, "label": "黑沙灘"},
+      "summary": "社群戶外影片把黑沙灘、龍爪角與路環串成半日線，適合想離開商場與密集街區的旅客。",
+      "highlights": ["先查天氣與步道狀況", "炎熱天氣帶足飲水", "回程公車時間要預留"],
+      "meta": [{"label": "建議停留", "value": "2–4 小時"}, {"label": "類型", "value": "海岸／步道"}],
+      "tags": ["黑沙灘", "海岸步道", "戶外"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "Macao Travel Guide（路環與黑沙資料）", "url": "https://content.macaotourism.gov.mo/uploads/mgto_brochures/259e95c9501af4968bd9336661e24de554b9b3ac.pdf", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "龍爪角海岸徑、黑沙灘與路環一日遊", "url": "https://www.bilibili.com/video/BV11k4y1i7KR", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "路環最美徒步：郊野公園黑沙灘段", "url": "https://www.bilibili.com/video/BV17k4y1p7Po", "capturedAt": "2026-09-21"}
+      ]
+    }
+  ]
+}

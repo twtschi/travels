@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "theme": {"id": "itinerary", "label": "行程範例", "title": "四天三夜慢行程", "intro": "這是指定住宿與日期條件的組合範例。主題資料可以獨立更新，行程只描述順序與取捨。"},
+  "updatedAt": "2026-09-21",
+  "items": [
+    {
+      "id": "day-1",
+      "title": "Day 1｜抵達與氹仔舊城",
+      "area": "氹仔",
+      "location": {"lat": 22.1559, "lng": 113.5604, "label": "氹仔舊城"},
+      "summary": "抵達、寄放行李、休息後再散步氹仔舊城；延誤時可刪散步，不影響晚餐。",
+      "highlights": ["抵達日不跨到澳門半島", "官也街小吃只在順路且少排隊時買", "晚餐選一間葡國菜"],
+      "meta": [{"label": "節奏", "value": "慢"}, {"label": "主要主題", "value": "美食／街區"}],
+      "tags": ["抵達日", "氹仔", "美食"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Taipa 4K：中葡街區步行", "url": "https://www.youtube.com/watch?v=648Yq7e6xP8", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "day-2",
+      "title": "Day 2｜歷史城區與水舞間",
+      "area": "澳門半島 → 路氹",
+      "location": {"lat": 22.1934, "lng": 113.5397, "label": "歷史城區"},
+      "summary": "上午從媽閣開始單向步行，下午到大三巴；依實際表演場次提前回路氹。",
+      "highlights": ["半島只進出一次", "固定表演時間優先", "晚餐安排在劇場附近"],
+      "meta": [{"label": "節奏", "value": "步行較多"}, {"label": "主要主題", "value": "景點／文化／表演"}],
+      "tags": ["歷史城區", "水舞間", "步行"],
+      "sources": [
+        {"sourceType": "social", "platform": "Bilibili", "title": "澳門半島 Citywalk 半日遊攻略", "url": "https://www.bilibili.com/video/BV12M411S7zB", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "day-3",
+      "title": "Day 3｜路氹度假城",
+      "area": "路氹",
+      "location": {"lat": 22.147, "lng": 113.566, "label": "路氹度假城區"},
+      "summary": "白天看威尼斯人與巴黎人，午後休息，傍晚短停永利皇宮，再回倫敦人晚餐與看夜景。",
+      "highlights": ["同區以步行串接", "下午保留休息", "娛樂場體驗不以下注為目標"],
+      "meta": [{"label": "節奏", "value": "室內步行＋休息"}, {"label": "主要主題", "value": "建築／娛樂／購物"}],
+      "tags": ["路氹", "夜景", "度假城"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "day-4",
+      "title": "Day 4｜路環短停與離境",
+      "area": "路環 → 機場",
+      "location": {"lat": 22.1168, "lng": 113.5607, "label": "路環市區"},
+      "summary": "只有在開店時間、車程與航班緩衝都成立時才到原店買葡撻，之後直接前往機場。",
+      "highlights": ["航班緩衝優先", "伴手禮平放手提", "延誤就取消購物停靠"],
+      "meta": [{"label": "節奏", "value": "嚴格控時"}, {"label": "主要主題", "value": "購物／離境"}],
+      "tags": ["路環", "葡撻", "離境"],
+      "sources": [
+        {"sourceType": "official", "platform": "Lord Stow’s", "title": "澳門分店與營業時間", "url": "https://www.lordstow.com/macau-outlets/?lang=zh-hant", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "龍爪角海岸徑、黑沙灘與路環一日遊", "url": "https://www.bilibili.com/video/BV11k4y1i7KR", "capturedAt": "2026-09-21"}
+      ]
+    }
+  ]
+}

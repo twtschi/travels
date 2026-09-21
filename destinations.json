@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "destinations": [
+    {
+      "id": "macau",
+      "name": "澳門",
+      "nameEn": "Macau",
+      "summary": "從地圖查看葡澳飲食、歷史街區、路氹娛樂與伴手禮，點選標記才展開社群來源與詳情。",
+      "manifest": "macau/manifest.json",
+      "status": "published"
+    }
+  ]
+}

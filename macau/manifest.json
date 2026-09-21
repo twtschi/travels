@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "macau",
+  "name": "澳門",
+  "nameEn": "Macau",
+  "eyebrow": "Destination guide",
+  "headline": "澳門，從地圖開始探索",
+  "summary": "切換美食、景點、在地特色、購物或體驗，再從地圖標記打開以社群內容整理的地點詳情。",
+  "updatedAt": "2026-09-21",
+  "map": {"center": [22.162, 113.555], "zoom": 12},
+  "themes": [
+    {"id": "food", "label": "美食", "description": "葡國菜、澳門小吃與甜點", "data": "macau/food/index.json"},
+    {"id": "sights", "label": "景點", "description": "歷史城區、街巷與建築", "data": "macau/sights/index.json"},
+    {"id": "culture", "label": "在地特色", "description": "中葡文化與城市生活", "data": "macau/culture/index.json"},
+    {"id": "shopping", "label": "購物", "description": "伴手禮、餅食與商場", "data": "macau/shopping/index.json"},
+    {"id": "experience", "label": "體驗娛樂", "description": "表演、夜景與度假城", "data": "macau/experience/index.json"},
+    {"id": "itinerary", "label": "行程範例", "description": "把各主題組成順路行程", "data": "macau/itinerary/index.json"}
+  ]
+}

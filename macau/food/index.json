@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "theme": {"id": "food", "label": "美食", "title": "澳門吃什麼", "intro": "把正餐、小吃與伴手禮分開安排；評價分數只作快照，營業與菜單以店家當日資訊為準。"},
+  "updatedAt": "2026-09-21",
+  "items": [
+    {
+      "id": "a-petisqueira",
+      "title": "A Petisqueira",
+      "area": "氹仔舊城",
+      "location": {"lat": 22.1552, "lng": 113.5597, "label": "A Petisqueira"},
+      "summary": "老派葡國菜與大份量分享菜，適合兩人以上的第一晚晚餐。",
+      "highlights": ["蒜香蜆、八爪魚與海鮮飯", "建議預約", "兩人避免點過量"],
+      "meta": [{"label": "人均", "value": "約 MOP 350–500"}, {"label": "適合", "value": "完整晚餐"}],
+      "tags": ["葡國菜", "需預約", "氹仔"],
+      "sources": [
+        {"sourceType": "review", "platform": "Tripadvisor", "title": "A Petisqueira 評價頁", "url": "https://www.tripadvisor.com/Restaurant_Review-g664891-d1797249-Reviews-A_Petisqueira-Macau.html", "capturedAt": "2026-09-15"}
+      ]
+    },
+    {
+      "id": "a-lorcha",
+      "title": "A Lorcha",
+      "area": "媽閣",
+      "location": {"lat": 22.1854, "lng": 113.5373, "label": "A Lorcha"},
+      "summary": "靠近歷史城區南端，適合排在媽閣與議事亭之間的葡澳料理午餐。",
+      "highlights": ["海鮮飯、非洲雞與馬介休球", "與媽閣步行線相容", "建議預約"],
+      "meta": [{"label": "人均", "value": "約 MOP 220–350"}, {"label": "適合", "value": "歷史城區日午餐"}],
+      "tags": ["葡澳料理", "媽閣", "需預約"],
+      "sources": [
+        {"sourceType": "review", "platform": "Tripadvisor", "title": "A Lorcha 評價頁", "url": "https://www.tripadvisor.com/Restaurant_Review-g664891-d1216084-Reviews-A_Lorcha-Macao.html", "capturedAt": "2026-09-15"},
+        {"sourceType": "review", "platform": "OpenRice", "title": "A Lorcha 店家頁", "url": "https://www.openrice.com/en/macau/p-a-lorcha-p19496515", "capturedAt": "2026-09-15"}
+      ]
+    },
+    {
+      "id": "lord-stows",
+      "title": "Lord Stow’s 葡撻",
+      "area": "路環／路氹",
+      "location": {"lat": 22.1168, "lng": 113.5607, "label": "Lord Stow’s 路環原店"},
+      "summary": "倫敦人店適合現吃，路環原店較適合把購買與路環短停組合；帶回家要平放。",
+      "highlights": ["原店較早開門", "現吃與盒裝分開安排", "攜帶規定依目的地海關"],
+      "meta": [{"label": "預算", "value": "單顆約 MOP 12–15 起"}, {"label": "適合", "value": "甜點／伴手禮"}],
+      "tags": ["葡撻", "路環", "伴手禮"],
+      "sources": [
+        {"sourceType": "official", "platform": "Lord Stow’s", "title": "澳門分店與營業時間", "url": "https://www.lordstow.com/macau-outlets/?lang=zh-hant", "capturedAt": "2026-09-15"}
+      ]
+    },
+    {
+      "id": "sing-lei-cha-chaan-teng",
+      "title": "Sing Lei Cha Chaan Teng",
+      "area": "新馬路周邊",
+      "location": {"lat": 22.1944053, "lng": 113.5389912, "label": "Sing Lei Cha Chaan Teng"},
+      "summary": "社群影片把這間茶餐廳列為豬扒包一站；適合排進半島步行日，不必為單一小吃跨區。",
+      "highlights": ["豬扒包", "先看現場排隊再決定", "與議事亭前地順路"],
+      "meta": [{"label": "類型", "value": "茶餐廳／小吃"}, {"label": "查核狀態", "value": "社群發現＋地圖定位"}],
+      "tags": ["豬扒包", "茶餐廳", "半島"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "5 Must-Try Street Foods in Macau", "url": "https://www.youtube.com/watch?v=urPBN6XhAYc", "capturedAt": "2026-09-21"},
+        {"sourceType": "review", "platform": "Google Maps", "title": "Sing Lei Cha Chaan Teng 定位頁", "url": "https://goo.gl/maps/hxvX6juLnUTKKGrZ7", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "kam-wai-beef-offal",
+      "title": "Kam Wai Beef Offal",
+      "area": "議事亭前地周邊",
+      "location": {"lat": 22.194535, "lng": 113.5414403, "label": "Kam Wai Beef Offal"},
+      "summary": "社群影片中的牛雜小吃站；口味較重且含內臟，同行者接受度比熱門程度更重要。",
+      "highlights": ["牛雜", "適合分食", "現場價格與供應為準"],
+      "meta": [{"label": "類型", "value": "街頭小吃"}, {"label": "查核狀態", "value": "社群發現＋地圖定位"}],
+      "tags": ["牛雜", "街頭小吃", "半島"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "5 Must-Try Street Foods in Macau", "url": "https://www.youtube.com/watch?v=urPBN6XhAYc", "capturedAt": "2026-09-21"},
+        {"sourceType": "review", "platform": "Google Maps", "title": "Kam Wai Beef Offal 定位頁", "url": "https://goo.gl/maps/FSwnuH2hSbsFrgUF9", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "margarets-cafe-e-nata",
+      "title": "Margaret’s Café e Nata",
+      "area": "新馬路周邊",
+      "location": {"lat": 22.1918034, "lng": 113.5418541, "label": "Margaret’s Café e Nata"},
+      "summary": "社群影片列出的半島葡撻選項；先看隊伍長度，再決定現吃或改到其他分店與品牌。",
+      "highlights": ["葡撻現吃", "尖峰時可能排隊", "不必和路環原店同日重複"],
+      "meta": [{"label": "類型", "value": "甜點／咖啡店"}, {"label": "查核狀態", "value": "社群發現＋地圖定位"}],
+      "tags": ["葡撻", "甜點", "半島"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "5 Must-Try Street Foods in Macau", "url": "https://www.youtube.com/watch?v=urPBN6XhAYc", "capturedAt": "2026-09-21"},
+        {"sourceType": "review", "platform": "Google Maps", "title": "Margaret’s Café e Nata 定位頁", "url": "https://goo.gl/maps/xRhw7q2cmD56dqsT7", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "wing-kei-tofu",
+      "title": "榮記豆腐麵食",
+      "area": "大三巴周邊",
+      "location": {"lat": 22.1973648, "lng": 113.5391991, "label": "榮記豆腐麵食"},
+      "summary": "影片以豆腐花與豆製小吃作為歷史城區的清淡停靠點，適合和重口味小吃錯開。",
+      "highlights": ["豆腐花", "適合步行途中短停", "供應品項以現場為準"],
+      "meta": [{"label": "類型", "value": "豆製甜品／小吃"}, {"label": "查核狀態", "value": "社群發現＋地圖定位"}],
+      "tags": ["豆腐花", "甜品", "大三巴"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "5 Must-Try Street Foods in Macau", "url": "https://www.youtube.com/watch?v=urPBN6XhAYc", "capturedAt": "2026-09-21"},
+        {"sourceType": "review", "platform": "Google Maps", "title": "榮記豆腐麵食定位頁", "url": "https://goo.gl/maps/t7wVN2mWozhhetnA8", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "ginja-do-senado",
+      "title": "Ginja do Senado",
+      "area": "議事亭前地",
+      "location": {"lat": 22.194086, "lng": 113.5407756, "label": "Ginja do Senado"},
+      "summary": "影片中的葡萄牙酸櫻桃酒短停；屬酒精飲品，只適合符合法定年齡且不駕車的旅客。",
+      "highlights": ["酸櫻桃酒", "少量品嘗", "未成年人與駕駛者跳過"],
+      "meta": [{"label": "類型", "value": "酒飲體驗"}, {"label": "查核狀態", "value": "社群發現＋地圖定位"}],
+      "tags": ["葡萄牙風味", "酒飲", "議事亭"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "5 Must-Try Street Foods in Macau", "url": "https://www.youtube.com/watch?v=urPBN6XhAYc", "capturedAt": "2026-09-21"},
+        {"sourceType": "review", "platform": "Google Maps", "title": "Ginja do Senado 定位頁", "url": "https://goo.gl/maps/JDtiWfChkVtVopuF8", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "lemon-cello",
+      "title": "Lemon Cello Gelato",
+      "area": "大三巴周邊",
+      "location": {"lat": 22.196, "lng": 113.5408, "label": "Lemon Cello"},
+      "summary": "家庭旅行影片在歷史城區步行段安排的冰品停靠點，適合炎熱天氣補一段室內休息。",
+      "highlights": ["義式冰淇淋", "與大三巴步行線順路", "口味與價格以店內為準"],
+      "meta": [{"label": "類型", "value": "冰品"}, {"label": "來源", "value": "家庭旅行影片"}],
+      "tags": ["冰淇淋", "大三巴", "甜點"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "futago-macau",
+      "title": "FUTAGO 大阪燒肉",
+      "area": "路氹／新濠天地",
+      "location": {"lat": 22.1491792, "lng": 113.5664134, "label": "新濠天地蘇濠 2 樓"},
+      "summary": "Instagram 貼文記錄進駐新濠天地後的用餐體驗；主打日式燒肉與桌邊代烤，適合安排成路氹晚餐。",
+      "highlights": ["A5 和牛天婦羅與海膽和牛是貼文亮點", "店員桌邊代烤", "新店菜單與供應先向店家確認"],
+      "meta": [{"label": "類型", "value": "日式燒肉"}, {"label": "IG 貼文", "value": "2026-08-05"}],
+      "tags": ["燒肉", "和牛", "新濠天地"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @macaufoodie_toutou", "title": "FUTAGO 澳門用餐貼文", "url": "https://www.instagram.com/macaufoodie_toutou/p/Dbp5HBflBE2/", "capturedAt": "2026-09-21"},
+        {"sourceType": "official", "platform": "新濠天地", "title": "大阪燒肉餐廳頁", "url": "https://www.cityofdreamsmacau.com/tc/dining/futago-macau", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "cafe-mei-ka",
+      "title": "美家咖啡 Cafe Mei Ka",
+      "area": "下環／風順堂",
+      "location": {"lat": 22.1905327, "lng": 113.5372231, "label": "風順堂街 17 號"},
+      "summary": "老城區街坊咖啡室；Instagram 貼文以鑊氣小菜與咖喱牛腩為主，適合排進下環或南灣步行日。",
+      "highlights": ["魷魚辣子雞煲", "咖喱薯仔炆牛腩", "涼拌鮮魷"],
+      "meta": [{"label": "類型", "value": "咖啡室／小菜"}, {"label": "IG 貼文", "value": "2026-07-13"}],
+      "tags": ["街坊店", "咖喱牛腩", "下環"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @macaufoodie_toutou", "title": "美家咖啡用餐貼文", "url": "https://www.instagram.com/macaufoodie_toutou/p/DaupxX2lNKI/", "capturedAt": "2026-09-21"},
+        {"sourceType": "review", "platform": "澳門本地商戶目錄", "title": "美家咖啡室地址頁", "url": "https://www.mlocal.biz/biz/4f37adabff44a31e0e00093b", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "son-tak-kong",
+      "title": "順德公飯店",
+      "area": "司打口／營地大街",
+      "location": {"lat": 22.1941942, "lng": 113.5385012, "label": "營地大街 106 號 A"},
+      "summary": "老字號順德菜館；Instagram 貼文集中介紹多道手工菜，較適合多人分食，而不是獨遊快餐。",
+      "highlights": ["脆皮咖喱牛坑腩", "蟹粉扒百花雞", "經典煎釀鯪魚"],
+      "meta": [{"label": "類型", "value": "順德菜／粵菜"}, {"label": "IG 貼文", "value": "2026-05-13"}],
+      "tags": ["順德菜", "手工菜", "老字號"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @macaufoodie_toutou", "title": "順德公手工菜貼文", "url": "https://www.instagram.com/macaufoodie_toutou/p/DYRlWB2lCM9/", "capturedAt": "2026-09-21"},
+        {"sourceType": "official", "platform": "澳門消費者委員會", "title": "順德公飯店商號資料", "url": "https://www.consumer.gov.mo/shop/Shop.aspx?ShopCode=1873&lang=zh", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "ximen-bistro",
+      "title": "西門餐館",
+      "area": "路氹／澳門百老匯",
+      "location": {"lat": 22.1466746, "lng": 113.5516354, "label": "澳門百老匯美食街 A-G014–G016"},
+      "summary": "台式熱炒、滷味與一人火鍋選擇；Instagram 貼文把黑金滷肉飯列為主角，適合多人多點幾款分食。",
+      "highlights": ["黑金滷肉飯", "剝皮辣椒雞湯", "香菜蚵仔煎與炒滷味"],
+      "meta": [{"label": "類型", "value": "台灣菜／熱炒"}, {"label": "IG 貼文", "value": "2026-09-16"}],
+      "tags": ["台灣菜", "滷肉飯", "澳門百老匯"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @sheilawithcat", "title": "西門餐館用餐 Reel", "url": "https://www.instagram.com/sheilawithcat/reel/DdWRXDdh05G/", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "jinxiu-mgm",
+      "title": "錦繡",
+      "area": "新口岸／澳門美高梅",
+      "location": {"lat": 22.1857992, "lng": 113.5480486, "label": "澳門美高梅貴賓大堂 2 樓"},
+      "summary": "包廂式中菜與姿造火鍋；Instagram 貼文呈現的是高端聚餐體驗，較適合慶祝或多人預約。",
+      "highlights": ["花膠雞湯", "生猛東星斑與象拔蚌", "手打墨魚丸與雲南菌拼盤"],
+      "meta": [{"label": "類型", "value": "中菜／姿造火鍋"}, {"label": "IG 貼文", "value": "2026-09-09"}],
+      "tags": ["中菜", "火鍋", "澳門美高梅"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @sheilawithcat", "title": "錦繡用餐貼文", "url": "https://www.instagram.com/sheilawithcat/p/DdEJmY3CauK/", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "flat-iron-steak-macau",
+      "title": "Flat Iron Steak",
+      "area": "路氹／新濠影滙",
+      "location": {"lat": 22.1410218, "lng": 113.5607193, "label": "新濠影滙"},
+      "summary": "主打美式牛扒館料理；Instagram 主貼文評價正面，但留言區同時出現肉質、預約接待與價格負評，宜把它視為評價分歧的候選店。",
+      "highlights": ["戰斧牛扒", "牛柳配蟹肉餅 Steak and Cake", "社群回饋分歧，先看近期評價"],
+      "meta": [{"label": "類型", "value": "牛扒館"}, {"label": "社群訊號", "value": "主貼文正面／留言褒貶不一"}],
+      "tags": ["牛扒", "新濠影滙", "評價分歧"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @sheilawithcat", "title": "Flat Iron Steak 用餐 Reel 與留言", "url": "https://www.instagram.com/sheilawithcat/reel/DcyMj3rBhki/", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "wasabi-crispy-eel",
+      "title": "山葵里",
+      "area": "青洲",
+      "location": {"lat": 22.2104402, "lng": 113.5458963, "label": "青洲大馬路 212–250 號逸麗花園地下 J 舖"},
+      "summary": "青洲街坊區的活鰻燒肉店；Instagram 貼文把即席鹽燒與汁燒活鰻列為核心，也有和牛與主食。",
+      "highlights": ["鹽燒與汁燒活鰻", "M9 和牛多部位", "A5 和牛肉眼海膽手卷"],
+      "meta": [{"label": "類型", "value": "活鰻／日式燒肉"}, {"label": "IG 貼文", "value": "2026-08-30"}],
+      "tags": ["活鰻", "燒肉", "青洲"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @sheilawithcat", "title": "山葵里用餐貼文", "url": "https://www.instagram.com/sheilawithcat/p/DcqjVBgCUF1/", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "aurora-altira",
+      "title": "奧羅拉 Aurora",
+      "area": "氹仔／新濠鋒",
+      "location": {"lat": 22.1617279, "lng": 113.5551262, "label": "新濠鋒"},
+      "summary": "位於新濠鋒高層的義大利餐廳；Instagram 貼文以慶祝場合、薄餅口感與餐後夜景為主要亮點。",
+      "highlights": ["義大利菜與薄餅", "適合慶祝場合", "高層夜景"],
+      "meta": [{"label": "類型", "value": "義大利菜"}, {"label": "IG 貼文", "value": "2026-07-09"}],
+      "tags": ["義大利菜", "景觀餐廳", "氹仔"],
+      "sources": [
+        {"sourceType": "social", "platform": "Instagram · @macaufoodie_toutou", "title": "奧羅拉用餐貼文", "url": "https://www.instagram.com/macaufoodie_toutou/p/DakWj2nlAUy/", "capturedAt": "2026-09-21"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "theme": {"id": "shopping", "label": "購物", "title": "伴手禮與購物", "intro": "先分辨現吃、送人與長途攜帶；保存方式和目的地海關規定比熱門排名更重要。"},
+  "updatedAt": "2026-09-21",
+  "items": [
+    {
+      "id": "traditional-pastries",
+      "title": "傳統中式餅食",
+      "area": "氹仔舊城",
+      "location": {"lat": 22.1578, "lng": 113.5585, "label": "氹仔舊城餅店區"},
+      "summary": "老婆餅、肉切酥與杏仁餅適合少量試買，再決定是否增加伴手禮份量。",
+      "highlights": ["注意店休日", "先確認保存期限", "易碎品放手提行李"],
+      "meta": [{"label": "預算", "value": "約 MOP 30–80 起"}, {"label": "購買時機", "value": "行程後段"}],
+      "tags": ["餅食", "伴手禮", "氹仔"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Rua do Cunha Macau Walk", "url": "https://www.youtube.com/watch?v=6wd0qbYwTi4", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "egg-tarts-to-go",
+      "title": "盒裝葡撻",
+      "area": "路環",
+      "location": {"lat": 22.1168, "lng": 113.5607, "label": "Lord Stow’s 路環原店"},
+      "summary": "當天食用最好；紙盒保持平放，不要塞入托運箱或用冰袋悶濕酥皮。",
+      "highlights": ["出發當天購買", "確認目的地食品入境規定", "不要購買超過實際食用量"],
+      "meta": [{"label": "預算", "value": "依 6 或 12 個盒裝計"}, {"label": "攜帶", "value": "手提、平放"}],
+      "tags": ["葡撻", "伴手禮", "食品規定"],
+      "sources": [
+        {"sourceType": "official", "platform": "Lord Stow’s", "title": "澳門分店與營業時間", "url": "https://www.lordstow.com/macau-outlets/?lang=zh-hant", "capturedAt": "2026-09-15"}
+      ]
+    },
+    {
+      "id": "cotai-malls",
+      "title": "路氹商場群",
+      "area": "路氹",
+      "location": {"lat": 22.1468, "lng": 113.5671, "label": "威尼斯人商場"},
+      "summary": "威尼斯人、巴黎人與倫敦人的商場可用室內步道串接，適合雨天或高溫時段。",
+      "highlights": ["先列購買清單", "同品牌先比較位置而非來回找店", "商場時間以官方公告為準"],
+      "meta": [{"label": "適合", "value": "品牌購物／雨天"}, {"label": "交通", "value": "同區步行"}],
+      "tags": ["商場", "室內", "路氹"],
+      "sources": [
+        {"sourceType": "official", "platform": "The Venetian Macao", "title": "威尼斯人設施資訊", "url": "https://www.venetianmacao.com/hotel/amenities/gondola-rides", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Venetian Canal Shoppes 與路氹家庭旅行", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "澳門商場怎麼逛：購物指南", "url": "https://www.bilibili.com/video/BV1oVn8zmEyn", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "historic-centre-souvenirs",
+      "title": "大三巴至議事亭手信街",
+      "area": "澳門歷史城區",
+      "location": {"lat": 22.1957, "lng": 113.5401, "label": "大三巴街周邊"},
+      "summary": "社群影片在大三巴與議事亭之間記錄肉乾、餅食和街頭試吃；適合先小量試吃，再決定伴手禮。",
+      "highlights": ["肉乾與餅食集中", "先比保存期限與包裝", "尖峰時保持行人動線"],
+      "meta": [{"label": "類型", "value": "手信／街頭食品"}, {"label": "購買時機", "value": "行程後段"}],
+      "tags": ["手信", "肉乾", "歷史城區"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "澳門購物指南：老城區篇", "url": "https://www.bilibili.com/video/BV13hUyY3Ej9", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "st-lazarus-creative-shops",
+      "title": "望德堂區文創小店",
+      "area": "望德堂／瘋堂斜巷",
+      "location": {"lat": 22.1992, "lng": 113.5504, "label": "望德堂區"},
+      "summary": "相較商場，這區適合慢走找小型文創與街區店舖；社群購物攻略只作發現線索，庫存依現場。",
+      "highlights": ["店舖規模小", "留意個別休息日", "可與塔石廣場同走"],
+      "meta": [{"label": "類型", "value": "文創／街區小店"}, {"label": "建議停留", "value": "1–1.5 小時"}],
+      "tags": ["文創", "街區店舖", "慢逛"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "One Day in Macau: Shopping and Underrated Places", "url": "https://www.youtube.com/watch?v=29sj1G-D2go", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "Bilibili", "title": "澳門購物指南：老城區篇", "url": "https://www.bilibili.com/video/BV13hUyY3Ej9", "capturedAt": "2026-09-21"}
+      ]
+    }
+  ]
+}

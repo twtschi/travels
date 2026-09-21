@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "theme": {"id": "experience", "label": "體驗娛樂", "title": "表演與夜間體驗", "intro": "固定場次先決定，餐飲和移動再圍繞它安排；所有場次、價格與入場規定都要在出發前重查。"},
+  "updatedAt": "2026-09-21",
+  "items": [
+    {
+      "id": "house-of-dancing-water",
+      "title": "水舞間",
+      "area": "City of Dreams／路氹",
+      "location": {"lat": 22.1484, "lng": 113.5632, "label": "City of Dreams"},
+      "summary": "把票券上的實際開演時間當作固定點，預留報到、安檢與場內移動時間。",
+      "highlights": ["以票券場次為準", "建議提前抵達", "晚餐放在同一度假城最穩定"],
+      "meta": [{"label": "安排", "value": "前後各留交通緩衝"}, {"label": "位置", "value": "City of Dreams"}],
+      "tags": ["表演", "需購票", "路氹"],
+      "sources": [
+        {"sourceType": "official", "platform": "水舞間", "title": "官方節目頁", "url": "https://www.thehouseofdancingwater.com/en/", "capturedAt": "2026-09-15"},
+        {"sourceType": "official", "platform": "City of Dreams", "title": "交通與接駁資訊", "url": "https://www.cityofdreamsmacau.com/en/getting-here", "capturedAt": "2026-09-15"}
+      ]
+    },
+    {
+      "id": "wynn-performance-lake",
+      "title": "永利皇宮湖景與公共空間",
+      "area": "路氹",
+      "location": {"lat": 22.1508, "lng": 113.5705, "label": "Wynn Palace"},
+      "summary": "適合傍晚短停，看湖景和大堂設計；纜車政策、收費與排隊時間以現場為準。",
+      "highlights": ["超過可接受排隊時間就跳過", "不假定纜車固定免費", "與路氹晚餐順路"],
+      "meta": [{"label": "建議停留", "value": "45–75 分鐘"}, {"label": "交通", "value": "的士或輕軌"}],
+      "tags": ["湖景", "公共藝術", "夜間"],
+      "sources": [
+        {"sourceType": "official", "platform": "Wynn Palace", "title": "官方娛樂資訊", "url": "https://www.wynnresortsmacau.com/en/wynn-palace/experiences/entertainment", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "YouTube", "title": "10 Free Things to Do in Macau", "url": "https://www.youtube.com/watch?v=PnuunIk62ew", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "cotai-night-walk",
+      "title": "路氹夜間步行",
+      "area": "路氹",
+      "location": {"lat": 22.145, "lng": 113.565, "label": "路氹夜間步行區"},
+      "summary": "倫敦人、巴黎人與威尼斯人適合串成不跨海的夜間線，避免為增加一個打卡點反覆叫車。",
+      "highlights": ["先查當日表演公告", "公共區域與娛樂場規則不同", "保留回住宿地的體力"],
+      "meta": [{"label": "建議停留", "value": "1.5–2.5 小時"}, {"label": "方式", "value": "室內／遮蔽步行"}],
+      "tags": ["夜景", "步行", "度假城"],
+      "sources": [
+        {"sourceType": "official", "platform": "The Londoner Macao", "title": "倫敦人景點與活動", "url": "https://www.londonermacao.com/macau-attractions", "capturedAt": "2026-09-15"},
+        {"sourceType": "official", "platform": "The Parisian Macao", "title": "巴黎人設施資訊", "url": "https://www.parisianmacao.com/amenities.html", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "teamlab-supernature",
+      "title": "teamLab SuperNature Macao",
+      "area": "威尼斯人／路氹",
+      "location": {"lat": 22.1468, "lng": 113.5671, "label": "Cotai Expo"},
+      "summary": "社群影片常把沉浸式展覽與威尼斯人排在同一段，適合雨天或午後高溫時段。",
+      "highlights": ["需預留完整體驗時間", "穿著便於活動", "票價與入場時段出發前再查"],
+      "meta": [{"label": "類型", "value": "沉浸式數位藝術"}, {"label": "建議停留", "value": "1.5–2.5 小時"}],
+      "tags": ["數位藝術", "室內", "需購票"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Macau Tower, Venetian & teamLab Experience", "url": "https://www.youtube.com/watch?v=Dxwi1e77Nyo", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Macau Family Adventure: Venetian, Parisian & teamLab", "url": "https://www.youtube.com/watch?v=NNNl9DPO2WI", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "macau-tower",
+      "title": "澳門旅遊塔觀景與高空活動",
+      "area": "南灣",
+      "location": {"lat": 22.17972, "lng": 113.53667, "label": "澳門旅遊塔"},
+      "summary": "社群路線把觀景台與高空彈跳分成不同強度；不參加刺激活動也可只安排城市展望。",
+      "highlights": ["觀景與高空活動分開評估", "天候影響能見度", "高空活動須查身體與年齡限制"],
+      "meta": [{"label": "類型", "value": "觀景／高空活動"}, {"label": "建議停留", "value": "1–2 小時"}],
+      "tags": ["觀景台", "高空活動", "城市景觀"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Macau Top 30 Things to Do & 3-Day Itinerary", "url": "https://www.youtube.com/watch?v=g0I4J-v0dhI", "capturedAt": "2026-09-21"},
+        {"sourceType": "social", "platform": "YouTube", "title": "澳門十大景點與旅遊塔高空彈跳", "url": "https://www.youtube.com/watch?v=Gpkxxwhg53E", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "international-fireworks",
+      "title": "澳門國際煙花比賽匯演",
+      "area": "南灣湖一帶",
+      "location": {"lat": 22.1881, "lng": 113.5395, "label": "南灣湖觀賞區"},
+      "summary": "社群完整影片可先判斷現場規模；這是季節性活動，只有官方公布當屆日期後才應排進行程。",
+      "highlights": ["季節限定", "提早選定觀賞點", "散場人流與交通另留時間"],
+      "meta": [{"label": "類型", "value": "季節活動"}, {"label": "查核", "value": "出發前確認當屆日期"}],
+      "tags": ["煙花", "夜間", "季節限定"],
+      "sources": [
+        {"sourceType": "social", "platform": "Bilibili", "title": "2026 澳門國際煙花比賽匯演完整版", "url": "https://www.bilibili.com/video/BV1NVhe6nEdz", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "galaxy-grand-resort-deck",
+      "title": "銀河天浪淘園",
+      "area": "澳門銀河／路氹",
+      "location": {"lat": 22.1503, "lng": 113.5559, "label": "澳門銀河"},
+      "summary": "社群實測聚焦造浪、玩水與入場動線；是否對非住客開放、票種與季節安排都要在當日再查。",
+      "highlights": ["玩水行程另帶更換衣物", "天候與季節可能影響設施", "先確認住客或票券資格"],
+      "meta": [{"label": "類型", "value": "水上設施"}, {"label": "建議停留", "value": "半天"}],
+      "tags": ["水上活動", "親子", "路氹"],
+      "sources": [
+        {"sourceType": "social", "platform": "Bilibili", "title": "澳門銀河天浪淘園實測", "url": "https://www.bilibili.com/video/BV18s7N6VE1T", "capturedAt": "2026-09-21"}
+      ]
+    }
+  ]
+}

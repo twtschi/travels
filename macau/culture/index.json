@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "theme": {"id": "culture", "label": "在地特色", "title": "理解澳門的在地特色", "intro": "這一區說明景點背後的城市脈絡，不再把文化內容混入一般景點清單。"},
+  "updatedAt": "2026-09-21",
+  "items": [
+    {
+      "id": "sino-portuguese-city",
+      "title": "中葡城市紋理",
+      "area": "澳門半島／氹仔",
+      "location": {"lat": 22.1934, "lng": 113.5397, "label": "歷史城區"},
+      "summary": "宗教建築、廣場、住宅與飲食並置，是澳門比單一打卡點更值得理解的部分。",
+      "highlights": ["沿街巷觀察比逐一進館更連貫", "歷史城區適合安排單向路線", "尊重宗教場所的服裝與攝影規則"],
+      "meta": [{"label": "體驗方式", "value": "步行觀察"}, {"label": "適合", "value": "第一次到澳門"}],
+      "tags": ["中葡文化", "城市歷史", "建築"],
+      "sources": [
+        {"sourceType": "official", "platform": "澳門旅遊局", "title": "澳門旅遊官方網站", "url": "https://www.macaotourism.gov.mo/", "capturedAt": "2026-09-15"},
+        {"sourceType": "social", "platform": "YouTube", "title": "Macau City Walking Tour 2025", "url": "https://www.youtube.com/watch?v=OR-rr9-3Wgw", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "casino-resort-culture",
+      "title": "綜合度假城與娛樂場文化",
+      "area": "路氹",
+      "location": {"lat": 22.1472, "lng": 113.565, "label": "路氹度假城區"},
+      "summary": "可從空間尺度、公共藝術、表演與服務觀察產業文化，不需要把體驗等同於下注。",
+      "highlights": ["遵守年齡與入場規則", "賭桌與籌碼區不攝影", "先設定時間與娛樂預算"],
+      "meta": [{"label": "體驗方式", "value": "公共區域觀察"}, {"label": "界線", "value": "不提供博彩策略"}],
+      "tags": ["度假城", "娛樂場禮儀", "路氹"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Food, Culture & Hidden Gems Beyond Casinos", "url": "https://www.youtube.com/watch?v=gtVxPwPKAi4", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "tap-seac-streets",
+      "title": "塔石廣場與周邊葡式街廓",
+      "area": "塔石／望德堂",
+      "location": {"lat": 22.1988, "lng": 113.5505, "label": "塔石廣場"},
+      "summary": "社群三日路線把塔石廣場排在半島北段，可從廣場、彩色立面與附近街巷觀察城市文化。",
+      "highlights": ["比大三巴人流分散", "適合接盧廉若公園", "活動日動線可能改變"],
+      "meta": [{"label": "體驗方式", "value": "街區散步"}, {"label": "建議停留", "value": "45–90 分鐘"}],
+      "tags": ["葡式街廓", "城市生活", "散步"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Macau Top 30 Things to Do & 3-Day Itinerary", "url": "https://www.youtube.com/watch?v=g0I4J-v0dhI", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "taipa-market-food-centre",
+      "title": "氹仔街市與熟食中心",
+      "area": "氹仔舊城",
+      "location": {"lat": 22.1573, "lng": 113.5582, "label": "氹仔街市周邊"},
+      "summary": "步行影片以氹仔街市與熟食中心觀察居民採買和日常飲食，和官也街的觀光小吃形成對照。",
+      "highlights": ["先看攤位實際營業", "保持通道暢通", "用餐尖峰避免久佔座位"],
+      "meta": [{"label": "體驗方式", "value": "市場觀察／熟食"}, {"label": "建議停留", "value": "45–75 分鐘"}],
+      "tags": ["街市", "熟食中心", "氹仔"],
+      "sources": [
+        {"sourceType": "social", "platform": "YouTube", "title": "Vila da Taipa & Food Center Tour", "url": "https://www.youtube.com/watch?v=J9a84iLU2MU", "capturedAt": "2026-09-21"}
+      ]
+    },
+    {
+      "id": "coloane-fishing-village",
+      "title": "路環漁村與海岸日常",
+      "area": "路環",
+      "location": {"lat": 22.1168, "lng": 113.5607, "label": "路環市區"},
+      "summary": "社群戶外路線把老街、海岸與黑沙段放在同一日，呈現和路氹度假城完全不同的慢節奏。",
+      "highlights": ["尊重住宅與居民空間", "老街與海岸可步行串接", "回程交通另留時間"],
+      "meta": [{"label": "體驗方式", "value": "老街／海岸散步"}, {"label": "建議停留", "value": "1.5–3 小時"}],
+      "tags": ["漁村", "海岸", "路環"],
+      "sources": [
+        {"sourceType": "social", "platform": "Bilibili", "title": "龍爪角海岸徑、黑沙灘與路環一日遊", "url": "https://www.bilibili.com/video/BV11k4y1i7KR", "capturedAt": "2026-09-21"}
+      ]
+    }
+  ]
+}
